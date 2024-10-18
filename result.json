@@ -1,0 +1,2287 @@
+{
+ "name": "Работа лютая да люто позитив угу",
+ "type": "private_supergroup",
+ "id": 2088130578,
+ "messages": [
+  {
+   "id": -999904574,
+   "type": "service",
+   "date": "2024-03-09T01:46:28",
+   "date_unixtime": "1709937988",
+   "actor": "FixTrack",
+   "actor_id": "user1993961048",
+   "action": "create_group",
+   "title": "Работа лютая да люто позитив угу",
+   "members": [
+    "FixTrack"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": -999904572,
+   "type": "service",
+   "date": "2024-03-09T01:47:49",
+   "date_unixtime": "1709938069",
+   "actor": "FixTrack",
+   "actor_id": "user1993961048",
+   "action": "edit_group_photo",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 640,
+   "height": 640,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": -999904571,
+   "type": "service",
+   "date": "2024-03-09T01:47:53",
+   "date_unixtime": "1709938073",
+   "actor": "FixTrack",
+   "actor_id": "user1993961048",
+   "action": "migrate_to_supergroup",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 1,
+   "type": "service",
+   "date": "2024-03-09T01:47:53",
+   "date_unixtime": "1709938073",
+   "actor": "Работа лютая да люто позитив угу",
+   "actor_id": "channel2088130578",
+   "action": "migrate_from_group",
+   "title": "Работа лютая да люто позитив угу",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 13,
+   "type": "service",
+   "date": "2024-03-09T02:08:46",
+   "date_unixtime": "1709939326",
+   "actor": "FixTrack",
+   "actor_id": "user1993961048",
+   "action": "topic_created",
+   "title": "Видео готовые",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 15,
+   "type": "service",
+   "date": "2024-03-09T02:09:34",
+   "date_unixtime": "1709939374",
+   "actor": "FixTrack",
+   "actor_id": "user1993961048",
+   "action": "topic_edit",
+   "new_icon_emoji_id": 5237699328843200968,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 16,
+   "type": "service",
+   "date": "2024-03-09T02:09:53",
+   "date_unixtime": "1709939393",
+   "actor": "FixTrack",
+   "actor_id": "user1993961048",
+   "action": "topic_edit",
+   "new_title": "Исходники",
+   "new_icon_emoji_id": 0,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 17,
+   "type": "service",
+   "date": "2024-03-09T02:10:14",
+   "date_unixtime": "1709939414",
+   "actor": "FixTrack",
+   "actor_id": "user1993961048",
+   "action": "topic_created",
+   "title": "Напоминалки",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 18,
+   "type": "service",
+   "date": "2024-03-09T02:11:06",
+   "date_unixtime": "1709939466",
+   "actor": "FixTrack",
+   "actor_id": "user1993961048",
+   "action": "topic_created",
+   "title": "Вопросы",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 19,
+   "type": "service",
+   "date": "2024-03-09T02:12:06",
+   "date_unixtime": "1709939526",
+   "actor": "FixTrack",
+   "actor_id": "user1993961048",
+   "action": "topic_edit",
+   "new_icon_emoji_id": 5242628160297641831,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 20,
+   "type": "service",
+   "date": "2024-03-09T02:24:48",
+   "date_unixtime": "1709940288",
+   "actor": "FixTrack",
+   "actor_id": "user1993961048",
+   "action": "topic_created",
+   "title": "Сценарии готовые",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 23,
+   "type": "service",
+   "date": "2024-03-09T02:39:32",
+   "date_unixtime": "1709941172",
+   "actor": "FixTrack",
+   "actor_id": "user1993961048",
+   "action": "topic_created",
+   "title": "Идеи",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 25,
+   "type": "message",
+   "date": "2024-03-09T02:41:46",
+   "date_unixtime": "1709941306",
+   "edited": "2024-03-10T01:39:25",
+   "edited_unixtime": "1710023965",
+   "from": "FixTrack",
+   "from_id": "user1993961048",
+   "reply_to_message_id": 23,
+   "text": [
+    "Сюда кидаем идеи для видео\n• По одной\n• Во избежание повторов использованные зачёркиваем\n• Реакция ",
+    {
+     "type": "custom_emoji",
+     "text": "✅",
+     "document_id": "stickers/AnimatedSticker.tgs"
+    },
+    " - бронь. Делай быстрее, пока тебя не опередили"
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Сюда кидаем идеи для видео\n• По одной\n• Во избежание повторов использованные зачёркиваем\n• Реакция "
+    },
+    {
+     "type": "custom_emoji",
+     "text": "✅",
+     "document_id": "stickers/AnimatedSticker.tgs"
+    },
+    {
+     "type": "plain",
+     "text": " - бронь. Делай быстрее, пока тебя не опередили"
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "type": "service",
+   "date": "2024-03-09T02:41:50",
+   "date_unixtime": "1709941310",
+   "actor": "FixTrack",
+   "actor_id": "user1993961048",
+   "action": "pin_message",
+   "message_id": 25,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 32,
+   "type": "message",
+   "date": "2024-03-09T02:44:09",
+   "date_unixtime": "1709941449",
+   "from": "FixTrack",
+   "from_id": "user1993961048",
+   "reply_to_message_id": 23,
+   "text": [
+    "Riffusion - ",
+    {
+     "type": "link",
+     "text": "https://www.riffusion.com/"
+    },
+    " - генерация музыки"
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Riffusion - "
+    },
+    {
+     "type": "link",
+     "text": "https://www.riffusion.com/"
+    },
+    {
+     "type": "plain",
+     "text": " - генерация музыки"
+    }
+   ]
+  },
+  {
+   "id": 33,
+   "type": "message",
+   "date": "2024-03-09T02:44:43",
+   "date_unixtime": "1709941483",
+   "edited": "2024-03-09T02:50:22",
+   "edited_unixtime": "1709941822",
+   "from": "FixTrack",
+   "from_id": "user1993961048",
+   "reply_to_message_id": 18,
+   "text": "Вопросы\nВопросы по работе и каналу в принципе",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Вопросы\nВопросы по работе и каналу в принципе"
+    }
+   ]
+  },
+  {
+   "id": 34,
+   "type": "message",
+   "date": "2024-03-09T02:44:49",
+   "date_unixtime": "1709941489",
+   "from": "FixTrack",
+   "from_id": "user1993961048",
+   "reply_to_message_id": 18,
+   "text": "Ты не собираешься делать обход нерабочих ссылок на Ютубе через комменты?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Ты не собираешься делать обход нерабочих ссылок на Ютубе через комменты?"
+    }
+   ]
+  },
+  {
+   "id": 35,
+   "type": "service",
+   "date": "2024-03-09T02:44:52",
+   "date_unixtime": "1709941492",
+   "actor": "FixTrack",
+   "actor_id": "user1993961048",
+   "action": "pin_message",
+   "message_id": 33,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 36,
+   "type": "message",
+   "date": "2024-03-09T02:46:23",
+   "date_unixtime": "1709941583",
+   "edited": "2024-03-09T02:50:41",
+   "edited_unixtime": "1709941841",
+   "from": "FixTrack",
+   "from_id": "user1993961048",
+   "reply_to_message_id": 13,
+   "text": "Видео готовые\nВидео, которые уже смонтированы и готовы отправляться в следующее звено с субтитрами, так скажем\n• Текстовое сообщение к файлу - название нейронки\n• Если с компа - в зип архив без пароля",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Видео готовые\nВидео, которые уже смонтированы и готовы отправляться в следующее звено с субтитрами, так скажем\n• Текстовое сообщение к файлу - название нейронки\n• Если с компа - в зип архив без пароля"
+    }
+   ]
+  },
+  {
+   "id": 37,
+   "type": "service",
+   "date": "2024-03-09T02:46:29",
+   "date_unixtime": "1709941589",
+   "actor": "FixTrack",
+   "actor_id": "user1993961048",
+   "action": "pin_message",
+   "message_id": 36,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 38,
+   "type": "message",
+   "date": "2024-03-09T02:47:17",
+   "date_unixtime": "1709941637",
+   "from": "FixTrack",
+   "from_id": "user1993961048",
+   "text": "Исходники\nПаркуры всякие, код телеги генератор голоса и музыка\n• Лишнего ничего не писать",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Исходники\nПаркуры всякие, код телеги генератор голоса и музыка\n• Лишнего ничего не писать"
+    }
+   ]
+  },
+  {
+   "id": 39,
+   "type": "service",
+   "date": "2024-03-09T02:47:20",
+   "date_unixtime": "1709941640",
+   "actor": "FixTrack",
+   "actor_id": "user1993961048",
+   "action": "pin_message",
+   "message_id": 38,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 40,
+   "type": "message",
+   "date": "2024-03-09T02:48:07",
+   "date_unixtime": "1709941687",
+   "from": "FixTrack",
+   "from_id": "user1993961048",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "file_name": "видео про нейросеть 7.mp4",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "video_file",
+   "mime_type": "video/mp4",
+   "duration_seconds": 42,
+   "width": 1080,
+   "height": 1920,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 41,
+   "type": "message",
+   "date": "2024-03-09T02:48:07",
+   "date_unixtime": "1709941687",
+   "from": "FixTrack",
+   "from_id": "user1993961048",
+   "reply_to_message_id": 40,
+   "text": "Референс видео пример",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Референс видео пример"
+    }
+   ]
+  },
+  {
+   "id": 42,
+   "type": "message",
+   "date": "2024-03-09T02:48:07",
+   "date_unixtime": "1709941687",
+   "from": "FixTrack",
+   "from_id": "user1993961048",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "file_name": "1_hour_20_minutes_of_relaxing_Minecraft_Parkour_Nostalgia,_Scenery.mp4",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "video_file",
+   "mime_type": "video/mp4",
+   "duration_seconds": 4813,
+   "width": 1920,
+   "height": 1080,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 43,
+   "type": "message",
+   "date": "2024-03-09T02:48:07",
+   "date_unixtime": "1709941687",
+   "from": "FixTrack",
+   "from_id": "user1993961048",
+   "reply_to_message_id": 42,
+   "text": "Фон видео паркур",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Фон видео паркур"
+    }
+   ]
+  },
+  {
+   "id": 44,
+   "type": "message",
+   "date": "2024-03-09T02:48:07",
+   "date_unixtime": "1709941687",
+   "from": "FixTrack",
+   "from_id": "user1993961048",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://elevenlabs.io/speech-synthesis"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://elevenlabs.io/speech-synthesis"
+    }
+   ]
+  },
+  {
+   "id": 45,
+   "type": "message",
+   "date": "2024-03-09T02:48:07",
+   "date_unixtime": "1709941687",
+   "from": "FixTrack",
+   "from_id": "user1993961048",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1065,
+   "height": 503,
+   "text": "Пресет голоса настройки голоса",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Пресет голоса настройки голоса"
+    }
+   ]
+  },
+  {
+   "id": 46,
+   "type": "message",
+   "date": "2024-03-09T02:48:07",
+   "date_unixtime": "1709941687",
+   "from": "FixTrack",
+   "from_id": "user1993961048",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 667,
+   "height": 1280,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 47,
+   "type": "message",
+   "date": "2024-03-09T02:48:07",
+   "date_unixtime": "1709941687",
+   "from": "FixTrack",
+   "from_id": "user1993961048",
+   "reply_to_message_id": 46,
+   "text": "Картинка телеги qr код кьюар код",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Картинка телеги qr код кьюар код"
+    }
+   ]
+  },
+  {
+   "id": 48,
+   "type": "message",
+   "date": "2024-03-09T02:48:07",
+   "date_unixtime": "1709941687",
+   "from": "FixTrack",
+   "from_id": "user1993961048",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "file_name": "Audiomachine_-_Dragon_Dance.mp3",
+   "media_type": "audio_file",
+   "performer": "Audiomachine",
+   "title": "Dragon Dance",
+   "mime_type": "audio/mpeg",
+   "duration_seconds": 131,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 49,
+   "type": "message",
+   "date": "2024-03-09T02:48:49",
+   "date_unixtime": "1709941729",
+   "from": "FixTrack",
+   "from_id": "user1993961048",
+   "reply_to_message_id": 17,
+   "text": "Напоминалки\nНапоминания скинуть видос в канал с готовыми видео",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Напоминалки\nНапоминания скинуть видос в канал с готовыми видео"
+    }
+   ]
+  },
+  {
+   "id": 50,
+   "type": "service",
+   "date": "2024-03-09T02:48:52",
+   "date_unixtime": "1709941732",
+   "actor": "FixTrack",
+   "actor_id": "user1993961048",
+   "action": "pin_message",
+   "message_id": 49,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 51,
+   "type": "message",
+   "date": "2024-03-09T02:49:33",
+   "date_unixtime": "1709941773",
+   "edited": "2024-03-11T23:16:52",
+   "edited_unixtime": "1710188212",
+   "from": "FixTrack",
+   "from_id": "user1993961048",
+   "reply_to_message_id": 20,
+   "text": [
+    "Сценарии готовые\nГотовые сценарии к видео чтобы можно было быстро внести правку другому\n",
+    {
+     "type": "custom_emoji",
+     "text": "✅",
+     "document_id": "stickers/AnimatedSticker.tgs"
+    },
+    " - правки внесены\n",
+    {
+     "type": "custom_emoji",
+     "text": "❌",
+     "document_id": "stickers/AnimatedSticker (1).tgs"
+    },
+    " - ожидает лютых правок"
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Сценарии готовые\nГотовые сценарии к видео чтобы можно было быстро внести правку другому\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "✅",
+     "document_id": "stickers/AnimatedSticker.tgs"
+    },
+    {
+     "type": "plain",
+     "text": " - правки внесены\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "❌",
+     "document_id": "stickers/AnimatedSticker (1).tgs"
+    },
+    {
+     "type": "plain",
+     "text": " - ожидает лютых правок"
+    }
+   ]
+  },
+  {
+   "id": 52,
+   "type": "service",
+   "date": "2024-03-09T02:49:35",
+   "date_unixtime": "1709941775",
+   "actor": "FixTrack",
+   "actor_id": "user1993961048",
+   "action": "pin_message",
+   "message_id": 51,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 53,
+   "type": "message",
+   "date": "2024-03-09T02:49:41",
+   "date_unixtime": "1709941781",
+   "from": "FixTrack",
+   "from_id": "user1993961048",
+   "reply_to_message_id": 20,
+   "text": "Привет, сегодня я расскажу тебе о бесплатной нейросети под названием AI Voice Generator. Это эффективный инструмент, который преобразует текст в голос с помощью искусственного интеллекта. Если у тебя есть какой-то текст, который тебе нужно озвучить, AI Voice Generator - это то, что тебе нужно. Просто введите текст, который нужно озвучить, и нейросеть сделает все за вас. Неважно, хочешь ли ты озвучить своё видео или записать голосовое сообщение, AI Voice Generator готов помочь. Ссылку на эту нейросеть, а также еще множество полезных нейросетей и актуальных новостей из мира ИТ ты найдешь в моем телеграмм канале, ссылка на который есть в моем профиле. Заглядывай!",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Привет, сегодня я расскажу тебе о бесплатной нейросети под названием AI Voice Generator. Это эффективный инструмент, который преобразует текст в голос с помощью искусственного интеллекта. Если у тебя есть какой-то текст, который тебе нужно озвучить, AI Voice Generator - это то, что тебе нужно. Просто введите текст, который нужно озвучить, и нейросеть сделает все за вас. Неважно, хочешь ли ты озвучить своё видео или записать голосовое сообщение, AI Voice Generator готов помочь. Ссылку на эту нейросеть, а также еще множество полезных нейросетей и актуальных новостей из мира ИТ ты найдешь в моем телеграмм канале, ссылка на который есть в моем профиле. Заглядывай!"
+    }
+   ]
+  },
+  {
+   "id": 59,
+   "type": "message",
+   "date": "2024-03-09T13:01:21",
+   "date_unixtime": "1709978481",
+   "edited": "2024-03-09T14:40:59",
+   "edited_unixtime": "1709984459",
+   "from": "FixTrack",
+   "from_id": "user1993961048",
+   "reply_to_message_id": 13,
+   "file": "(File not included. Change data exporting settings to download.)",
+   "file_name": "lv_0_20240309022936.mp4",
+   "mime_type": "video/mp4",
+   "text": [
+    "Spikes Studio ",
+    {
+     "type": "link",
+     "text": "spikes.studio"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Spikes Studio "
+    },
+    {
+     "type": "link",
+     "text": "spikes.studio"
+    }
+   ]
+  },
+  {
+   "id": 60,
+   "type": "service",
+   "date": "2024-03-09T13:05:37",
+   "date_unixtime": "1709978737",
+   "actor": "FixTrack",
+   "actor_id": "user1993961048",
+   "action": "topic_created",
+   "title": "Использованные нейронки",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 61,
+   "type": "service",
+   "date": "2024-03-09T13:05:45",
+   "date_unixtime": "1709978745",
+   "actor": "FixTrack",
+   "actor_id": "user1993961048",
+   "action": "topic_edit",
+   "new_icon_emoji_id": 5312016608254762256,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 62,
+   "type": "message",
+   "date": "2024-03-09T13:06:27",
+   "date_unixtime": "1709978787",
+   "from": "FixTrack",
+   "from_id": "user1993961048",
+   "reply_to_message_id": 60,
+   "text": "Использованные нейронки\nКидаем сюда нейронки, которые уже использовали",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Использованные нейронки\nКидаем сюда нейронки, которые уже использовали"
+    }
+   ]
+  },
+  {
+   "id": 63,
+   "type": "message",
+   "date": "2024-03-09T13:06:36",
+   "date_unixtime": "1709978796",
+   "from": "FixTrack",
+   "from_id": "user1993961048",
+   "reply_to_message_id": 60,
+   "text": "Spikes Studio",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Spikes Studio"
+    }
+   ]
+  },
+  {
+   "id": 64,
+   "type": "message",
+   "date": "2024-03-10T15:06:33",
+   "date_unixtime": "1710072393",
+   "edited": "2024-03-10T15:10:36",
+   "edited_unixtime": "1710072636",
+   "from": "FixTrack",
+   "from_id": "user1993961048",
+   "reply_to_message_id": 20,
+   "text": "Привет! Сегодня я хочу показать тебе уникальную бесплатную нейросеть под названием StableVideo. Эта нейросеть умеет создавать видео прямо из текстового запроса! Достаточно ввести свой текст, нажать кнопку генерации и за несколько секунд твои слова превратятся в живые кадры. Это идеально подходит для быстрого создания рекламных роликов, промо-видео или информационных кадров. Нейросеть работает онлайн, что делает процесс быстрым и удобным. Ссылка на StableVideo и другие нейросети есть в моём телеграмм канале, ссылка в профиле, так что не забудь присоединиться к нам!",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Привет! Сегодня я хочу показать тебе уникальную бесплатную нейросеть под названием StableVideo. Эта нейросеть умеет создавать видео прямо из текстового запроса! Достаточно ввести свой текст, нажать кнопку генерации и за несколько секунд твои слова превратятся в живые кадры. Это идеально подходит для быстрого создания рекламных роликов, промо-видео или информационных кадров. Нейросеть работает онлайн, что делает процесс быстрым и удобным. Ссылка на StableVideo и другие нейросети есть в моём телеграмм канале, ссылка в профиле, так что не забудь присоединиться к нам!"
+    }
+   ]
+  },
+  {
+   "id": 66,
+   "type": "message",
+   "date": "2024-03-10T15:44:10",
+   "date_unixtime": "1710074650",
+   "from": "FixTrack",
+   "from_id": "user1993961048",
+   "reply_to_message_id": 60,
+   "text": "Stable Video",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Stable Video"
+    }
+   ]
+  },
+  {
+   "id": 67,
+   "type": "message",
+   "date": "2024-03-10T15:46:13",
+   "date_unixtime": "1710074773",
+   "from": "FixTrack",
+   "from_id": "user1993961048",
+   "reply_to_message_id": 13,
+   "file": "(File not included. Change data exporting settings to download.)",
+   "file_name": "lv_0_20240310154142.mp4",
+   "mime_type": "video/mp4",
+   "text": [
+    "Stable Video ",
+    {
+     "type": "link",
+     "text": "https://www.stablevideo.com/generate"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Stable Video "
+    },
+    {
+     "type": "link",
+     "text": "https://www.stablevideo.com/generate"
+    }
+   ]
+  },
+  {
+   "id": 72,
+   "type": "message",
+   "date": "2024-03-10T22:44:06",
+   "date_unixtime": "1710099846",
+   "from": "Тигерь",
+   "from_id": "user5125745037",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://t.me/scenariiiiii_bot"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "link",
+     "text": "https://t.me/scenariiiiii_bot"
+    }
+   ]
+  },
+  {
+   "id": 73,
+   "type": "message",
+   "date": "2024-03-10T22:44:29",
+   "date_unixtime": "1710099869",
+   "from": "FixTrack",
+   "from_id": "user1993961048",
+   "reply_to_message_id": 72,
+   "text": "Сценарии",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Сценарии"
+    }
+   ]
+  },
+  {
+   "id": 74,
+   "type": "message",
+   "date": "2024-03-11T14:01:56",
+   "date_unixtime": "1710154916",
+   "from": "FixTrack",
+   "from_id": "user1993961048",
+   "reply_to_message_id": 13,
+   "file": "(File not included. Change data exporting settings to download.)",
+   "file_name": "lv_0_20240311003733.mp4",
+   "mime_type": "video/mp4",
+   "text": [
+    "Fokus - ",
+    {
+     "type": "link",
+     "text": "https://fokus.am/ru"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Fokus - "
+    },
+    {
+     "type": "link",
+     "text": "https://fokus.am/ru"
+    }
+   ]
+  },
+  {
+   "id": 75,
+   "type": "message",
+   "date": "2024-03-11T22:30:22",
+   "date_unixtime": "1710185422",
+   "edited": "2024-03-11T22:46:02",
+   "edited_unixtime": "1710186362",
+   "from": "FixTrack",
+   "from_id": "user1993961048",
+   "reply_to_message_id": 20,
+   "text": "Привет, сегодня я расскажу тебе о нейросети, которая способна превращать текст в речь. Нейросеть носит название \"AI Voice Generator\". Это мощная технология Text-to-Speech, которая может превратить любой текст в аудиофайл с голосом. Всё, что тебе нужно сделать, - это ввести текст, который ты хотел бы озвучить, и нейросеть преобразует его в звуковой файл. Это отличный способ создать озвучку для видео, подкаста или любого другого текста, который ты хотел бы озвучить. Напиши в комментариях, какие еще нейросети ты знаешь, и возможно, она подойдет для следующего ролика. Кстати, ссылку на эту нейросеть я оставил в своем телеграмм-канале, где ты сможешь найти множество других полезных ресурсов по нейронным сетям и новости мира IT. Присоединяйся по ссылке в профиле.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Привет, сегодня я расскажу тебе о нейросети, которая способна превращать текст в речь. Нейросеть носит название \"AI Voice Generator\". Это мощная технология Text-to-Speech, которая может превратить любой текст в аудиофайл с голосом. Всё, что тебе нужно сделать, - это ввести текст, который ты хотел бы озвучить, и нейросеть преобразует его в звуковой файл. Это отличный способ создать озвучку для видео, подкаста или любого другого текста, который ты хотел бы озвучить. Напиши в комментариях, какие еще нейросети ты знаешь, и возможно, она подойдет для следующего ролика. Кстати, ссылку на эту нейросеть я оставил в своем телеграмм-канале, где ты сможешь найти множество других полезных ресурсов по нейронным сетям и новости мира IT. Присоединяйся по ссылке в профиле."
+    }
+   ]
+  },
+  {
+   "id": 78,
+   "type": "message",
+   "date": "2024-03-11T23:17:31",
+   "date_unixtime": "1710188251",
+   "from": "FixTrack",
+   "from_id": "user1993961048",
+   "reply_to_message_id": 51,
+   "text": "Прошу тигеря выставить все статусы проверки",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Прошу тигеря выставить все статусы проверки"
+    }
+   ]
+  },
+  {
+   "id": 79,
+   "type": "message",
+   "date": "2024-03-11T23:23:41",
+   "date_unixtime": "1710188621",
+   "edited": "2024-03-11T23:23:52",
+   "edited_unixtime": "1710188632",
+   "from": "Тигерь",
+   "from_id": "user5125745037",
+   "reply_to_message_id": 20,
+   "text": "Привет, сегодня я хочу представить вам крайне интересную нейросеть под названием \"HourOne\". HourOne предназначена для создания уникальных видеороликов из текстового описания с помощью искусственного интеллекта. Вы скидываете нейросети все исходники для видео и далее она создает новый видеоролик, Удивительно, не правда ли?\n\nHourOne способна помочь вам с любыми задачами, касающимися видеопродакшена: от создания промо-роликов и презентаций до производства полнометражного кино. Как я считаю - это обязательно стоит попробовать!\n\nТакже не забудьте поделиться своими впечатлениями в комментариях и написать нейросети, которые вы знаете. Может быть следующий обзор будет именно про вашу любимую нейросеть. Все ссылки, включая ссылку на HourOne, можно найти в моем Телеграм канале, ссылка в профиле. Присоединяйся к нашей IT семье, будем на связи!",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Привет, сегодня я хочу представить вам крайне интересную нейросеть под названием \"HourOne\". HourOne предназначена для создания уникальных видеороликов из текстового описания с помощью искусственного интеллекта. Вы скидываете нейросети все исходники для видео и далее она создает новый видеоролик, Удивительно, не правда ли?\n\nHourOne способна помочь вам с любыми задачами, касающимися видеопродакшена: от создания промо-роликов и презентаций до производства полнометражного кино. Как я считаю - это обязательно стоит попробовать!\n\nТакже не забудьте поделиться своими впечатлениями в комментариях и написать нейросети, которые вы знаете. Может быть следующий обзор будет именно про вашу любимую нейросеть. Все ссылки, включая ссылку на HourOne, можно найти в моем Телеграм канале, ссылка в профиле. Присоединяйся к нашей IT семье, будем на связи!"
+    }
+   ],
+   "reactions": [
+     {
+      "type": "custom_emoji",
+      "count": 1,
+      "document_id": "stickers/AnimatedSticker.tgs",
+      "recent": [
+       {
+        "from": "Тигерь",
+        "from_id": "user5125745037",
+        "date": "2024-03-11T23:23:52"
+       }
+      ]
+     }
+    ]
+  },
+  {
+   "id": 80,
+   "type": "message",
+   "date": "2024-03-11T23:25:57",
+   "date_unixtime": "1710188757",
+   "edited": "2024-03-12T19:42:02",
+   "edited_unixtime": "1710261722",
+   "from": "Тигерь",
+   "from_id": "user5125745037",
+   "reply_to_message_id": 20,
+   "text": "Привет! Сегодня я расскажу о нейросети, которая может перевести твои видео на любой из 140 плюс языков, сохраняя при этом натуральным образ голосового акцента и стиля разговора. Это \"Vidnoz\", нейросеть для умного перевода видео с помощью ИИ! Для начала работы достаточно загрузить свое видео на их веб-сайт и выбрать желаемый язык перевода, после этого нейросеть выдаст видео уже в переводе и ты сможешь его с легкостью скачать и использовать как и где угодно.\nБудет классно, если ты расскажешь в комментариях о своих любимых нейросетях. Может быть, именно твой рассказ про нейросеть станет темой следующего видео! Я оставил ссылку на Vidnoz в своем телеграмм-канале, где есть много полезных ссылок на другие нейросети и свежие новости из мира IT. Присоединяйся по ссылке в профиле!",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Привет! Сегодня я расскажу о нейросети, которая может перевести твои видео на любой из 140 плюс языков, сохраняя при этом натуральным образ голосового акцента и стиля разговора. Это \"Vidnoz\", нейросеть для умного перевода видео с помощью ИИ! Для начала работы достаточно загрузить свое видео на их веб-сайт и выбрать желаемый язык перевода, после этого нейросеть выдаст видео уже в переводе и ты сможешь его с легкостью скачать и использовать как и где угодно.\nБудет классно, если ты расскажешь в комментариях о своих любимых нейросетях. Может быть, именно твой рассказ про нейросеть станет темой следующего видео! Я оставил ссылку на Vidnoz в своем телеграмм-канале, где есть много полезных ссылок на другие нейросети и свежие новости из мира IT. Присоединяйся по ссылке в профиле!"
+    }
+   ],
+   "reactions": [
+     {
+      "type": "custom_emoji",
+      "count": 1,
+      "document_id": "stickers/AnimatedSticker.tgs",
+      "recent": [
+       {
+        "from": "Тигерь",
+        "from_id": "user5125745037",
+        "date": "2024-03-11T23:26:46"
+       }
+      ]
+     }
+    ]
+  },
+  {
+   "id": 81,
+   "type": "message",
+   "date": "2024-03-12T14:01:55",
+   "date_unixtime": "1710241315",
+   "from": "FixTrack",
+   "from_id": "user1993961048",
+   "reply_to_message_id": 13,
+   "file": "(File not included. Change data exporting settings to download.)",
+   "file_name": "lv_0_20240311230702.mp4",
+   "mime_type": "video/mp4",
+   "text": [
+    "AI Voice Generator - ",
+    {
+     "type": "link",
+     "text": "https://www.aivoicegenerator.org/"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "AI Voice Generator - "
+    },
+    {
+     "type": "link",
+     "text": "https://www.aivoicegenerator.org/"
+    }
+   ]
+  },
+  {
+   "id": 82,
+   "type": "message",
+   "date": "2024-03-12T19:40:40",
+   "date_unixtime": "1710261640",
+   "from": "FixTrack",
+   "from_id": "user1993961048",
+   "reply_to_message_id": 80,
+   "text": "Кста",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Кста"
+    }
+   ]
+  },
+  {
+   "id": 83,
+   "type": "message",
+   "date": "2024-03-12T19:40:47",
+   "date_unixtime": "1710261647",
+   "from": "FixTrack",
+   "from_id": "user1993961048",
+   "reply_to_message_id": 20,
+   "text": "Это ты написал расскаду",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Это ты написал расскаду"
+    }
+   ]
+  },
+  {
+   "id": 84,
+   "type": "message",
+   "date": "2024-03-12T19:40:51",
+   "date_unixtime": "1710261651",
+   "from": "FixTrack",
+   "from_id": "user1993961048",
+   "reply_to_message_id": 20,
+   "text": "Так что нечего тут",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Так что нечего тут"
+    }
+   ]
+  },
+  {
+   "id": 85,
+   "type": "message",
+   "date": "2024-03-12T19:40:51",
+   "date_unixtime": "1710261651",
+   "from": "Тигерь",
+   "from_id": "user5125745037",
+   "reply_to_message_id": 20,
+   "text": "БЛЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯТЬ",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "БЛЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯЯТЬ"
+    }
+   ]
+  },
+  {
+   "id": 86,
+   "type": "message",
+   "date": "2024-03-12T19:40:54",
+   "date_unixtime": "1710261654",
+   "from": "Тигерь",
+   "from_id": "user5125745037",
+   "reply_to_message_id": 20,
+   "text": "ЕБАННЫЙ РОТ",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ЕБАННЫЙ РОТ"
+    }
+   ]
+  },
+  {
+   "id": 87,
+   "type": "message",
+   "date": "2024-03-12T19:40:56",
+   "date_unixtime": "1710261656",
+   "from": "Тигерь",
+   "from_id": "user5125745037",
+   "reply_to_message_id": 20,
+   "text": "Я ЕБАЛ",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Я ЕБАЛ"
+    }
+   ]
+  },
+  {
+   "id": 88,
+   "type": "message",
+   "date": "2024-03-12T19:41:02",
+   "date_unixtime": "1710261662",
+   "from": "Тигерь",
+   "from_id": "user5125745037",
+   "reply_to_message_id": 20,
+   "text": "А ТЫ ЧЁ НЕ ПРОВЕРИЛ",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "А ТЫ ЧЁ НЕ ПРОВЕРИЛ"
+    }
+   ]
+  },
+  {
+   "id": 89,
+   "type": "message",
+   "date": "2024-03-12T19:41:03",
+   "date_unixtime": "1710261663",
+   "from": "Тигерь",
+   "from_id": "user5125745037",
+   "reply_to_message_id": 20,
+   "text": "СЮКА",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "СЮКА"
+    }
+   ]
+  },
+  {
+   "id": 90,
+   "type": "message",
+   "date": "2024-03-12T19:41:08",
+   "date_unixtime": "1710261668",
+   "from": "FixTrack",
+   "from_id": "user1993961048",
+   "reply_to_message_id": 20,
+   "text": "А чё я",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "А чё я"
+    }
+   ]
+  },
+  {
+   "id": 91,
+   "type": "message",
+   "date": "2024-03-12T19:41:13",
+   "date_unixtime": "1710261673",
+   "from": "FixTrack",
+   "from_id": "user1993961048",
+   "reply_to_message_id": 20,
+   "text": "Ты даёшь проверенный",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Ты даёшь проверенный"
+    }
+   ]
+  },
+  {
+   "id": 92,
+   "type": "message",
+   "date": "2024-03-12T19:41:14",
+   "date_unixtime": "1710261674",
+   "from": "Тигерь",
+   "from_id": "user5125745037",
+   "reply_to_message_id": 20,
+   "text": "СЮКА",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "СЮКА"
+    }
+   ]
+  },
+  {
+   "id": 93,
+   "type": "message",
+   "date": "2024-03-12T19:41:15",
+   "date_unixtime": "1710261675",
+   "from": "Тигерь",
+   "from_id": "user5125745037",
+   "reply_to_message_id": 20,
+   "text": "Я ЕБАЛ",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Я ЕБАЛ"
+    }
+   ]
+  },
+  {
+   "id": 94,
+   "type": "message",
+   "date": "2024-03-12T19:41:48",
+   "date_unixtime": "1710261708",
+   "from": "FixTrack",
+   "from_id": "user1993961048",
+   "reply_to_message_id": 20,
+   "text": "Лох",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Лох"
+    }
+   ]
+  },
+  {
+   "id": 95,
+   "type": "message",
+   "date": "2024-03-12T19:41:51",
+   "date_unixtime": "1710261711",
+   "from": "FixTrack",
+   "from_id": "user1993961048",
+   "reply_to_message_id": 20,
+   "text": "Объективно",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Объективно"
+    }
+   ]
+  },
+  {
+   "id": 96,
+   "type": "message",
+   "date": "2024-03-12T19:41:53",
+   "date_unixtime": "1710261713",
+   "from": "Тигерь",
+   "from_id": "user5125745037",
+   "reply_to_message_id": 20,
+   "text": "так",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "так"
+    }
+   ]
+  },
+  {
+   "id": 97,
+   "type": "message",
+   "date": "2024-03-12T19:42:02",
+   "date_unixtime": "1710261722",
+   "from": "Тигерь",
+   "from_id": "user5125745037",
+   "reply_to_message_id": 20,
+   "text": "я поменял",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "я поменял"
+    }
+   ]
+  },
+  {
+   "id": 98,
+   "type": "message",
+   "date": "2024-03-12T19:42:04",
+   "date_unixtime": "1710261724",
+   "from": "Тигерь",
+   "from_id": "user5125745037",
+   "reply_to_message_id": 20,
+   "text": "всё",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "всё"
+    }
+   ]
+  },
+  {
+   "id": 99,
+   "type": "message",
+   "date": "2024-03-12T19:42:07",
+   "date_unixtime": "1710261727",
+   "from": "Тигерь",
+   "from_id": "user5125745037",
+   "reply_to_message_id": 20,
+   "text": "ниче не знаю",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ниче не знаю"
+    }
+   ]
+  },
+  {
+   "id": 100,
+   "type": "message",
+   "date": "2024-03-12T19:42:14",
+   "date_unixtime": "1710261734",
+   "from": "Тигерь",
+   "from_id": "user5125745037",
+   "reply_to_message_id": 20,
+   "text": "мне нужен завтра норм видос",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "мне нужен завтра норм видос"
+    }
+   ]
+  },
+  {
+   "id": 101,
+   "type": "message",
+   "date": "2024-03-12T19:43:51",
+   "date_unixtime": "1710261831",
+   "from": "FixTrack",
+   "from_id": "user1993961048",
+   "reply_to_message_id": 20,
+   "text": "Из-за твоей \"слепой печати\" мне токены тратить надо",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Из-за твоей \"слепой печати\" мне токены тратить надо"
+    }
+   ]
+  },
+  {
+   "id": 102,
+   "type": "message",
+   "date": "2024-03-12T19:43:57",
+   "date_unixtime": "1710261837",
+   "from": "Тигерь",
+   "from_id": "user5125745037",
+   "reply_to_message_id": 20,
+   "text": "XD",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "XD"
+    }
+   ]
+  },
+  {
+   "id": 103,
+   "type": "message",
+   "date": "2024-03-12T19:44:03",
+   "date_unixtime": "1710261843",
+   "from": "Тигерь",
+   "from_id": "user5125745037",
+   "reply_to_message_id": 20,
+   "text": "у меня есть токенсы",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "у меня есть токенсы"
+    }
+   ]
+  },
+  {
+   "id": 104,
+   "type": "message",
+   "date": "2024-03-12T19:44:06",
+   "date_unixtime": "1710261846",
+   "from": "Тигерь",
+   "from_id": "user5125745037",
+   "reply_to_message_id": 20,
+   "text": "я ща сделаю",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "я ща сделаю"
+    }
+   ]
+  },
+  {
+   "id": 105,
+   "type": "message",
+   "date": "2024-03-12T19:44:11",
+   "date_unixtime": "1710261851",
+   "from": "Тигерь",
+   "from_id": "user5125745037",
+   "reply_to_message_id": 20,
+   "text": "и скину",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "и скину"
+    }
+   ]
+  },
+  {
+   "id": 106,
+   "type": "message",
+   "date": "2024-03-12T19:44:43",
+   "date_unixtime": "1710261883",
+   "from": "Тигерь",
+   "from_id": "user5125745037",
+   "reply_to_message_id": 20,
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 452,
+   "height": 142,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 107,
+   "type": "message",
+   "date": "2024-03-12T19:47:13",
+   "date_unixtime": "1710262033",
+   "from": "Тигерь",
+   "from_id": "user5125745037",
+   "reply_to_message_id": 20,
+   "text": "бля у меня кажись настройки голоса слетели",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "бля у меня кажись настройки голоса слетели"
+    }
+   ]
+  },
+  {
+   "id": 108,
+   "type": "message",
+   "date": "2024-03-12T19:47:17",
+   "date_unixtime": "1710262037",
+   "from": "Тигерь",
+   "from_id": "user5125745037",
+   "reply_to_message_id": 20,
+   "text": "голос ужасный",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "голос ужасный"
+    }
+   ]
+  },
+  {
+   "id": 109,
+   "type": "message",
+   "date": "2024-03-12T19:47:20",
+   "date_unixtime": "1710262040",
+   "from": "Тигерь",
+   "from_id": "user5125745037",
+   "reply_to_message_id": 20,
+   "text": "всё таки давай сам",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "всё таки давай сам"
+    }
+   ]
+  },
+  {
+   "id": 110,
+   "type": "message",
+   "date": "2024-03-12T19:47:21",
+   "date_unixtime": "1710262041",
+   "from": "Тигерь",
+   "from_id": "user5125745037",
+   "reply_to_message_id": 20,
+   "text": "XD",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "XD"
+    }
+   ]
+  },
+  {
+   "id": 111,
+   "type": "message",
+   "date": "2024-03-12T19:47:24",
+   "date_unixtime": "1710262044",
+   "from": "Тигерь",
+   "from_id": "user5125745037",
+   "reply_to_message_id": 20,
+   "text": "ссорииииииии",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ссорииииииии"
+    }
+   ]
+  },
+  {
+   "id": 112,
+   "type": "message",
+   "date": "2024-03-12T19:47:34",
+   "date_unixtime": "1710262054",
+   "from": "Тигерь",
+   "from_id": "user5125745037",
+   "reply_to_message_id": 20,
+   "text": "я повышу тебе зарплату за это видео",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "я повышу тебе зарплату за это видео"
+    }
+   ]
+  },
+  {
+   "id": 113,
+   "type": "message",
+   "date": "2024-03-12T19:47:39",
+   "date_unixtime": "1710262059",
+   "from": "Тигерь",
+   "from_id": "user5125745037",
+   "reply_to_message_id": 20,
+   "text": "в компенсацию",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "в компенсацию"
+    }
+   ]
+  },
+  {
+   "id": 115,
+   "type": "message",
+   "date": "2024-03-13T14:02:59",
+   "date_unixtime": "1710327779",
+   "from": "FixTrack",
+   "from_id": "user1993961048",
+   "reply_to_message_id": 13,
+   "file": "(File not included. Change data exporting settings to download.)",
+   "file_name": "lv_0_20240312195138.mp4",
+   "mime_type": "video/mp4",
+   "text": [
+    "Vidnoz - ",
+    {
+     "type": "link",
+     "text": "https://www.vidnoz.com/video-translate.html"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Vidnoz - "
+    },
+    {
+     "type": "link",
+     "text": "https://www.vidnoz.com/video-translate.html"
+    }
+   ]
+  },
+  {
+   "id": 116,
+   "type": "message",
+   "date": "2024-10-18T19:50:49",
+   "date_unixtime": "1729270249",
+   "from": "FixTrack",
+   "from_id": "user1993961048",
+   "reply_to_message_id": 13,
+   "text": "Где оплата за шортсы, бобер?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Где оплата за шортсы, бобер?"
+    }
+   ]
+  },
+  {
+   "id": 117,
+   "type": "message",
+   "date": "2024-10-18T19:51:42",
+   "date_unixtime": "1729270302",
+   "from": "Тигерь",
+   "from_id": "user5125745037",
+   "reply_to_message_id": 13,
+   "text": "ебат, что выдал",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ебат, что выдал"
+    }
+   ]
+  },
+  {
+   "id": 118,
+   "type": "message",
+   "date": "2024-10-18T19:51:47",
+   "date_unixtime": "1729270307",
+   "from": "Тигерь",
+   "from_id": "user5125745037",
+   "reply_to_message_id": 13,
+   "text": "я даже не помнил эту группу",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "я даже не помнил эту группу"
+    }
+   ]
+  },
+  {
+   "id": 119,
+   "type": "message",
+   "date": "2024-10-18T19:51:53",
+   "date_unixtime": "1729270313",
+   "from": "Тигерь",
+   "from_id": "user5125745037",
+   "reply_to_message_id": 13,
+   "text": "пиздец злопамятный ты",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "пиздец злопамятный ты"
+    }
+   ]
+  },
+  {
+   "id": 120,
+   "type": "message",
+   "date": "2024-10-18T19:52:34",
+   "date_unixtime": "1729270354",
+   "from": "FixTrack",
+   "from_id": "user1993961048",
+   "reply_to_message_id": 13,
+   "text": "Не злопамятный, а неоплатапамятный",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Не злопамятный, а неоплатапамятный"
+    }
+   ]
+  },
+  {
+   "id": 121,
+   "type": "message",
+   "date": "2024-10-18T20:02:30",
+   "date_unixtime": "1729270950",
+   "from": "FixTrack",
+   "from_id": "user1993961048",
+   "reply_to_message_id": 18,
+   "text": "Оплата когда?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Оплата когда?"
+    }
+   ]
+  },
+  {
+   "id": 122,
+   "type": "service",
+   "date": "2024-10-18T20:25:21",
+   "date_unixtime": "1729272321",
+   "actor": "Тигерь",
+   "actor_id": "user5125745037",
+   "action": "remove_members",
+   "members": [
+    "Тигерь"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 123,
+   "type": "service",
+   "date": "2024-10-18T21:22:50",
+   "date_unixtime": "1729275770",
+   "actor": "Тигерь",
+   "actor_id": "user5125745037",
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 124,
+   "type": "service",
+   "date": "2024-10-18T21:25:28",
+   "date_unixtime": "1729275928",
+   "actor": "FixTrack",
+   "actor_id": "user1993961048",
+   "action": "topic_created",
+   "title": "Чач",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 125,
+   "type": "message",
+   "date": "2024-10-18T21:25:32",
+   "date_unixtime": "1729275932",
+   "from": "FixTrack",
+   "from_id": "user1993961048",
+   "reply_to_message_id": 124,
+   "text": "Слушаю вас",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Слушаю вас"
+    }
+   ]
+  },
+  {
+   "id": 126,
+   "type": "service",
+   "date": "2024-10-18T21:25:51",
+   "date_unixtime": "1729275951",
+   "actor": "FixTrack",
+   "actor_id": "user1993961048",
+   "action": "topic_edit",
+   "new_title": "Егар бобер не оплатил >:(",
+   "new_icon_emoji_id": 0,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 127,
+   "type": "message",
+   "date": "2024-10-18T21:26:03",
+   "date_unixtime": "1729275963",
+   "from": "Тигерь",
+   "from_id": "user5125745037",
+   "reply_to_message_id": 124,
+   "text": "Скажи честно, тебе это реально так важно?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Скажи честно, тебе это реально так важно?"
+    }
+   ]
+  },
+  {
+   "id": 128,
+   "type": "message",
+   "date": "2024-10-18T21:26:09",
+   "date_unixtime": "1729275969",
+   "from": "Тигерь",
+   "from_id": "user5125745037",
+   "reply_to_message_id": 124,
+   "text": "Ответь искренне, прошу",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Ответь искренне, прошу"
+    }
+   ]
+  },
+  {
+   "id": 129,
+   "type": "message",
+   "date": "2024-10-18T21:26:22",
+   "date_unixtime": "1729275982",
+   "from": "FixTrack",
+   "from_id": "user1993961048",
+   "reply_to_message_id": 127,
+   "text": "Оплата труда? Конечно важна",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Оплата труда? Конечно важна"
+    }
+   ]
+  },
+  {
+   "id": 130,
+   "type": "message",
+   "date": "2024-10-18T21:27:30",
+   "date_unixtime": "1729276050",
+   "from": "Тигерь",
+   "from_id": "user5125745037",
+   "reply_to_message_id": 129,
+   "text": "То есть ты готов ссорится с одним из лучших твоих друзей из-за жалких 100-200 рублей?..",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "То есть ты готов ссорится с одним из лучших твоих друзей из-за жалких 100-200 рублей?.."
+    }
+   ]
+  },
+  {
+   "id": 131,
+   "type": "message",
+   "date": "2024-10-18T21:28:27",
+   "date_unixtime": "1729276107",
+   "from": "Тигерь",
+   "from_id": "user5125745037",
+   "reply_to_message_id": 124,
+   "text": "И ты ни с колечки не будешь чувствовать себя виноватым?..",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "И ты ни с колечки не будешь чувствовать себя виноватым?.."
+    }
+   ]
+  },
+  {
+   "id": 132,
+   "type": "message",
+   "date": "2024-10-18T21:28:59",
+   "date_unixtime": "1729276139",
+   "from": "Тигерь",
+   "from_id": "user5125745037",
+   "reply_to_message_id": 124,
+   "text": "Я сейчас ни в коем случае не агрессию, я просто хочу узнать от тебя ответ на этот вопрос",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Я сейчас ни в коем случае не агрессию, я просто хочу узнать от тебя ответ на этот вопрос"
+    }
+   ]
+  },
+  {
+   "id": 133,
+   "type": "message",
+   "date": "2024-10-18T21:30:32",
+   "date_unixtime": "1729276232",
+   "from": "FixTrack",
+   "from_id": "user1993961048",
+   "reply_to_message_id": 124,
+   "text": [
+    "Не из-за 100-200р, а недели создания шортсов, за которые ты мне ",
+    {
+     "type": "bold",
+     "text": "обещал"
+    },
+    " оплату, но не оплатил. Какой ты мне друг, если не можешь выполнить обещания?"
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Не из-за 100-200р, а недели создания шортсов, за которые ты мне "
+    },
+    {
+     "type": "bold",
+     "text": "обещал"
+    },
+    {
+     "type": "plain",
+     "text": " оплату, но не оплатил. Какой ты мне друг, если не можешь выполнить обещания?"
+    }
+   ]
+  },
+  {
+   "id": 134,
+   "type": "message",
+   "date": "2024-10-18T21:33:02",
+   "date_unixtime": "1729276382",
+   "from": "Тигерь",
+   "from_id": "user5125745037",
+   "reply_to_message_id": 133,
+   "text": "Недели? Ты буквально их штамповал по готовому шаблону. У тебя это занимало точно не больше часа в день, и ты сделал их всего пять. Также я уже говорил, что нигде не написано сколько и когда и как. Тут проблема в другом. Я готов спокойно выполнить обещание, но как ты поступаешь... это очень не красивый поступок.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Недели? Ты буквально их штамповал по готовому шаблону. У тебя это занимало точно не больше часа в день, и ты сделал их всего пять. Также я уже говорил, что нигде не написано сколько и когда и как. Тут проблема в другом. Я готов спокойно выполнить обещание, но как ты поступаешь... это очень не красивый поступок."
+    }
+   ]
+  },
+  {
+   "id": 135,
+   "type": "message",
+   "date": "2024-10-18T21:34:29",
+   "date_unixtime": "1729276469",
+   "from": "Тигерь",
+   "from_id": "user5125745037",
+   "reply_to_message_id": 134,
+   "text": "Если я переведу тебе эти жалкие двести рублей ты реально не будешь чувствовать себя виноватым? Ты не думаешь, что это как-то нечестно. Я тоже могу сейчас найти в нашей переписке твои обещания невыполнение и докапываться к тебе. Но я выше этого, и дружба мне важнее денег.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Если я переведу тебе эти жалкие двести рублей ты реально не будешь чувствовать себя виноватым? Ты не думаешь, что это как-то нечестно. Я тоже могу сейчас найти в нашей переписке твои обещания невыполнение и докапываться к тебе. Но я выше этого, и дружба мне важнее денег."
+    }
+   ]
+  },
+  {
+   "id": 136,
+   "type": "message",
+   "date": "2024-10-18T21:43:07",
+   "date_unixtime": "1729276987",
+   "from": "FixTrack",
+   "from_id": "user1993961048",
+   "reply_to_message_id": 124,
+   "text": [
+    {
+     "type": "blockquote",
+     "text": "Недели? Ты буквально их штамповал по готовому шаблону. У тебя это занимало точно не больше часа в день, и ты сделал их всего пять.",
+     "collapsed": false
+    },
+    "\nКакая разница, сколько я делал и по готовому шаблону или нет? Сам факт: ты мне обещал, что будет оплата, и обещание не сдержал\n\n\n",
+    {
+     "type": "blockquote",
+     "text": "Также я уже говорил, что нигде не написано сколько и когда и как",
+     "collapsed": false
+    },
+    "\nТо что ты не писал, это да, но ты мне это говорил в войсе, что для тебя наверняка является главным рычагом чтобы говорить, что тв ничего не обещал\n\n",
+    {
+     "type": "blockquote",
+     "text": "Я готов спокойно выполнить обещание, но как ты поступаешь... это очень не красивый поступок.",
+     "collapsed": false
+    },
+    "\nУ тебя было ",
+    {
+     "type": "bold",
+     "text": "ПОЛ ГОДА"
+    },
+    " чтобы выполнить его, что то я не вижу желания выполнить его. Я тебе напомнил про оплату, а ты начал говорить, что ты не говорил про деньги и ничего не обещал\n\n",
+    {
+     "type": "blockquote",
+     "text": "Если я переведу тебе эти жалкие двести рублей ты реально не будешь чувствовать себя виноватым?",
+     "collapsed": false
+    },
+    "\nТогда это будет обещанной оплатой этих шортсов, которую ты обещал. А я должен чувствовать себя виноватым за то, что сделал шортсы и получил за них оплату\n\n",
+    {
+     "type": "blockquote",
+     "text": "Ты не думаешь, что это как-то нечестно",
+     "collapsed": false
+    },
+    "\nПочему не честно? Я сделал шортсы, ты про них успешно забыл, а когда я напомнил, начал отмазываться. Я начал у тебя просить настойчивее, потому что пол года ждать оплаты это бред",
+    {
+     "type": "spoiler",
+     "text": " в стиле СССР 50-х годов"
+    },
+    "\n\n",
+    {
+     "type": "blockquote",
+     "text": "Я тоже могу сейчас найти в нашей переписке твои обещания невыполнение и докапываться к тебе",
+     "collapsed": false
+    },
+    "\nНу давай, я их выполню, и не буду отмазываться, как ",
+    {
+     "type": "italic",
+     "text": "некоторые"
+    },
+    "\n\n",
+    {
+     "type": "blockquote",
+     "text": "Но я выше этого, и дружба мне важнее денег",
+     "collapsed": false
+    },
+    "\nЯ тоже считаю, что дружба дороже денег, но вспомним, что ",
+    {
+     "type": "italic",
+     "text": "обещания дороже, чем дружба"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "blockquote",
+     "text": "Недели? Ты буквально их штамповал по готовому шаблону. У тебя это занимало точно не больше часа в день, и ты сделал их всего пять.",
+     "collapsed": false
+    },
+    {
+     "type": "plain",
+     "text": "\nКакая разница, сколько я делал и по готовому шаблону или нет? Сам факт: ты мне обещал, что будет оплата, и обещание не сдержал\n\n\n"
+    },
+    {
+     "type": "blockquote",
+     "text": "Также я уже говорил, что нигде не написано сколько и когда и как",
+     "collapsed": false
+    },
+    {
+     "type": "plain",
+     "text": "\nТо что ты не писал, это да, но ты мне это говорил в войсе, что для тебя наверняка является главным рычагом чтобы говорить, что тв ничего не обещал\n\n"
+    },
+    {
+     "type": "blockquote",
+     "text": "Я готов спокойно выполнить обещание, но как ты поступаешь... это очень не красивый поступок.",
+     "collapsed": false
+    },
+    {
+     "type": "plain",
+     "text": "\nУ тебя было "
+    },
+    {
+     "type": "bold",
+     "text": "ПОЛ ГОДА"
+    },
+    {
+     "type": "plain",
+     "text": " чтобы выполнить его, что то я не вижу желания выполнить его. Я тебе напомнил про оплату, а ты начал говорить, что ты не говорил про деньги и ничего не обещал\n\n"
+    },
+    {
+     "type": "blockquote",
+     "text": "Если я переведу тебе эти жалкие двести рублей ты реально не будешь чувствовать себя виноватым?",
+     "collapsed": false
+    },
+    {
+     "type": "plain",
+     "text": "\nТогда это будет обещанной оплатой этих шортсов, которую ты обещал. А я должен чувствовать себя виноватым за то, что сделал шортсы и получил за них оплату\n\n"
+    },
+    {
+     "type": "blockquote",
+     "text": "Ты не думаешь, что это как-то нечестно",
+     "collapsed": false
+    },
+    {
+     "type": "plain",
+     "text": "\nПочему не честно? Я сделал шортсы, ты про них успешно забыл, а когда я напомнил, начал отмазываться. Я начал у тебя просить настойчивее, потому что пол года ждать оплаты это бред"
+    },
+    {
+     "type": "spoiler",
+     "text": " в стиле СССР 50-х годов"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "blockquote",
+     "text": "Я тоже могу сейчас найти в нашей переписке твои обещания невыполнение и докапываться к тебе",
+     "collapsed": false
+    },
+    {
+     "type": "plain",
+     "text": "\nНу давай, я их выполню, и не буду отмазываться, как "
+    },
+    {
+     "type": "italic",
+     "text": "некоторые"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "blockquote",
+     "text": "Но я выше этого, и дружба мне важнее денег",
+     "collapsed": false
+    },
+    {
+     "type": "plain",
+     "text": "\nЯ тоже считаю, что дружба дороже денег, но вспомним, что "
+    },
+    {
+     "type": "italic",
+     "text": "обещания дороже, чем дружба"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 137,
+   "type": "message",
+   "date": "2024-10-18T21:45:06",
+   "date_unixtime": "1729277106",
+   "from": "Тигерь",
+   "from_id": "user5125745037",
+   "reply_to_message_id": 124,
+   "text": "Я был о тебе лучшего мнения... \nНу давай, говори сколько и куда",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Я был о тебе лучшего мнения... \nНу давай, говори сколько и куда"
+    }
+   ]
+  },
+  {
+   "id": 138,
+   "type": "message",
+   "date": "2024-10-18T21:45:39",
+   "date_unixtime": "1729277139",
+   "from": "FixTrack",
+   "from_id": "user1993961048",
+   "reply_to_message_id": 137,
+   "file": "(File not included. Change data exporting settings to download.)",
+   "file_name": "sticker.webp",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "sticker",
+   "sticker_emoji": "📓",
+   "mime_type": "image/webp",
+   "width": 512,
+   "height": 512,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 139,
+   "type": "message",
+   "date": "2024-10-18T21:45:51",
+   "date_unixtime": "1729277151",
+   "from": "FixTrack",
+   "from_id": "user1993961048",
+   "reply_to_message_id": 124,
+   "text": [
+    {
+     "type": "phone",
+     "text": "+79773151303"
+    },
+    " Яндекс"
+   ],
+   "text_entities": [
+    {
+     "type": "phone",
+     "text": "+79773151303"
+    },
+    {
+     "type": "plain",
+     "text": " Яндекс"
+    }
+   ]
+  },
+  {
+   "id": 140,
+   "type": "message",
+   "date": "2024-10-18T21:45:57",
+   "date_unixtime": "1729277157",
+   "from": "FixTrack",
+   "from_id": "user1993961048",
+   "reply_to_message_id": 124,
+   "text": "А сколько, решай уже сам",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "А сколько, решай уже сам"
+    }
+   ]
+  },
+  {
+   "id": 141,
+   "type": "message",
+   "date": "2024-10-18T21:46:03",
+   "date_unixtime": "1729277163",
+   "from": "FixTrack",
+   "from_id": "user1993961048",
+   "reply_to_message_id": 124,
+   "text": "Я на это не влияю",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Я на это не влияю"
+    }
+   ]
+  },
+  {
+   "id": 142,
+   "type": "message",
+   "date": "2024-10-18T21:48:56",
+   "date_unixtime": "1729277336",
+   "from": "Тигерь",
+   "from_id": "user5125745037",
+   "reply_to_message_id": 124,
+   "text": "Я даже спрашивать не буду, почему вы Сергей Михалыч",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Я даже спрашивать не буду, почему вы Сергей Михалыч"
+    }
+   ]
+  },
+  {
+   "id": 143,
+   "type": "message",
+   "date": "2024-10-18T21:49:04",
+   "date_unixtime": "1729277344",
+   "from": "FixTrack",
+   "from_id": "user1993961048",
+   "reply_to_message_id": 124,
+   "text": "Молодец",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Молодец"
+    }
+   ]
+  },
+  {
+   "id": 144,
+   "type": "message",
+   "date": "2024-10-18T21:49:11",
+   "date_unixtime": "1729277351",
+   "from": "Тигерь",
+   "from_id": "user5125745037",
+   "reply_to_message_id": 124,
+   "text": "Михайлович*",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Михайлович*"
+    }
+   ]
+  },
+  {
+   "id": 145,
+   "type": "message",
+   "date": "2024-10-18T21:49:14",
+   "date_unixtime": "1729277354",
+   "from": "Тигерь",
+   "from_id": "user5125745037",
+   "reply_to_message_id": 124,
+   "text": "Извиняюсь",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Извиняюсь"
+    }
+   ]
+  },
+  {
+   "id": 146,
+   "type": "message",
+   "date": "2024-10-18T21:49:17",
+   "date_unixtime": "1729277357",
+   "from": "FixTrack",
+   "from_id": "user1993961048",
+   "reply_to_message_id": 124,
+   "text": "Да похуй",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Да похуй"
+    }
+   ]
+  },
+  {
+   "id": 147,
+   "type": "message",
+   "date": "2024-10-18T21:49:23",
+   "date_unixtime": "1729277363",
+   "from": "FixTrack",
+   "from_id": "user1993961048",
+   "reply_to_message_id": 124,
+   "text": "Это нн какой то",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Это нн какой то"
+    }
+   ]
+  },
+  {
+   "id": 148,
+   "type": "message",
+   "date": "2024-10-18T21:49:38",
+   "date_unixtime": "1729277378",
+   "from": "FixTrack",
+   "from_id": "user1993961048",
+   "reply_to_message_id": 124,
+   "text": "Это левый паспорт, который мне папа дал",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Это левый паспорт, который мне папа дал"
+    }
+   ]
+  },
+  {
+   "id": 149,
+   "type": "message",
+   "date": "2024-10-18T21:49:46",
+   "date_unixtime": "1729277386",
+   "from": "FixTrack",
+   "from_id": "user1993961048",
+   "reply_to_message_id": 124,
+   "text": "Для верификации",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Для верификации"
+    }
+   ]
+  },
+  {
+   "id": 150,
+   "type": "message",
+   "date": "2024-10-18T21:50:19",
+   "date_unixtime": "1729277419",
+   "from": "FixTrack",
+   "from_id": "user1993961048",
+   "reply_to_message_id": 124,
+   "text": "Молодец",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Молодец"
+    }
+   ]
+  },
+  {
+   "id": 151,
+   "type": "message",
+   "date": "2024-10-18T21:50:28",
+   "date_unixtime": "1729277428",
+   "from": "Тигерь",
+   "from_id": "user5125745037",
+   "reply_to_message_id": 139,
+   "text": "Но знай, твой поступок искупить невозможно. \nЯ не буду тебе угрожать или что либо тебе делать. Просто помни, что ты поставил деньги выше дружбы.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Но знай, твой поступок искупить невозможно. \nЯ не буду тебе угрожать или что либо тебе делать. Просто помни, что ты поставил деньги выше дружбы."
+    }
+   ]
+  },
+  {
+   "id": 152,
+   "type": "message",
+   "date": "2024-10-18T21:50:43",
+   "date_unixtime": "1729277443",
+   "from": "FixTrack",
+   "from_id": "user1993961048",
+   "reply_to_message_id": 151,
+   "text": "Чё та на умном",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Чё та на умном"
+    }
+   ]
+  },
+  {
+   "id": 153,
+   "type": "message",
+   "date": "2024-10-18T21:51:15",
+   "date_unixtime": "1729277475",
+   "from": "Тигерь",
+   "from_id": "user5125745037",
+   "reply_to_message_id": 151,
+   "text": [
+    "Бог прогревает тебя за твои грешные поступки\n\n",
+    {
+     "type": "spoiler",
+     "text": "Ой да всем посрать, что я не верующий"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Бог прогревает тебя за твои грешные поступки\n\n"
+    },
+    {
+     "type": "spoiler",
+     "text": "Ой да всем посрать, что я не верующий"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 154,
+   "type": "message",
+   "date": "2024-10-18T21:51:22",
+   "date_unixtime": "1729277482",
+   "from": "Тигерь",
+   "from_id": "user5125745037",
+   "reply_to_message_id": 124,
+   "file": "(File not included. Change data exporting settings to download.)",
+   "file_name": "AnimatedSticker.tgs",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "sticker",
+   "sticker_emoji": "🔥",
+   "mime_type": "application/x-tgsticker",
+   "width": 512,
+   "height": 512,
+   "text": "",
+   "text_entities": []
+  }
+ ]
+}
